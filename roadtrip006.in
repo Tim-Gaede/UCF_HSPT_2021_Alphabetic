@@ -1,0 +1,29 @@
+13 15
+A
+B
+C
+Atwo
+Btwo
+Ctwo
+D
+E
+F
+G
+H
+I
+J
+A B 100
+B C 2
+C D 4
+Atwo Btwo 2
+Btwo Ctwo 1000
+Ctwo D 5
+A Btwo 20
+B Ctwo 500
+Btwo C 1000
+D E 1
+E F 1
+F G 1
+G H 1
+H I 1
+I J 1
